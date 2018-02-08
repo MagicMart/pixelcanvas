@@ -1,2 +1,2 @@
 # pixelcanvas
-A fun drawing
+A fun drawing tool

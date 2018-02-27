@@ -1,6 +1,6 @@
 # pixelcanvas
 
-##Description
+## Description
 
 A fun drawing tool that I created for the **Google Udacity Challenge Scholarship**
 
